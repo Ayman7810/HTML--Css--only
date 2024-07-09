@@ -655,5 +655,11 @@ margin: 0 7px;
         margin-left: auto;
         margin-right: auto;
     }
+
+    .container h1 {
+      
+        font-size: 70px;
+       
+    }
  }
  /* End footer Section  */
